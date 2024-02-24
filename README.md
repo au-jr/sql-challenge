@@ -20,27 +20,27 @@ Tables were then created using the ERD as a guide. The tables can be created usi
 
     Departments:
 
-!['table_departments'](EmployeeSQL\code_snippets\table_departments.png)
+!['table_departments'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/table_departments.png)
 
     Employees:
 
-!['table_employees'](EmployeeSQL\code_snippets\table_employees.png)
+!['table_employees'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/table_employees.png)
 
     Position Titles:
 
-!['tables_title'](EmployeeSQL\code_snippets\table_titles.png)
+!['table_title'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/table_titles.png)
 
     Employee Departments:
 
-!['tables_dept_emp'](EmployeeSQL\code_snippets\tables_dept_emp.png)
+!['tables_dept_emp'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/tables_dept_emp.png)
 
     Department Managers:
 
-!['tables_dept_manager'](EmployeeSQL\code_snippets\tables_dept_manager.png)
+!['tables_dept_manager'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/tables_dept_manager.png)
 
     Employee Salaries:
 
-!['tables_salaries'](EmployeeSQL\code_snippets\tables_salaries.png)
+!['tables_salaries'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/tables_salaries.png)
 
 #### The tables are populated by importing the following csv files via the following method:
 
