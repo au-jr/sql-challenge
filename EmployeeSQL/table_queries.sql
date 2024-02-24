@@ -100,8 +100,6 @@ select * from data_analysis_7;
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 -- Data Analysis 8
--- List the frequency counts, in descending order, of all the employee last 
--- names (that is, how many employees share each last name).
 
 CREATE VIEW data_analysis_8 AS
 	select e.last_name as Surname, count(e.last_name) as Counts
