@@ -14,7 +14,7 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 An Entity Relationship Diagram (ERD) was created to map primary and foreign key relationships between the different databases:
 
-!['ERD'](EmployeeSQL\code_snippets\ERD_image.png)
+!['ERD'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/ERD_image.png)
 
 Tables were then created using the ERD as a guide. The tables can be created using the following commands.
 
@@ -47,17 +47,17 @@ Tables were then created using the ERD as a guide. The tables can be created usi
 #### 1.
 Right-click on the table you want to import the data to.
 
-!['import_1'](EmployeeSQL\code_snippets\import_1.png)
+!['import_1'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/import_1.png)
 
 #### 2.
 Locate the csv path in the local system.
 
-!['import_2'](EmployeeSQL\code_snippets\import_2.png)
+!['import_2'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/import_2.png)
 
 #### 3.
 Ensure the header option is as below so the program knows there's a title row in the csv file.
 
-!['import_3'](EmployeeSQL\code_snippets\import_3.png)
+!['import_3'](https://github.com/au-jr/sql-challenge/blob/main/EmployeeSQL/code_snippets/import_3.png)
 
 
 From here we begin to create queries and subqueries, slicing and joining tables together to retrieve the challenge question information.
